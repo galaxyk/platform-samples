@@ -1,1 +1,0 @@
-This folder contains smaller examples that we've shown at our Developer Hacks.
